@@ -1,0 +1,8 @@
+
+* Builder (Manager) pattern.
+* Factory pattern.
+* Repository pattern.
+* Strategy pattern.
+* Provider pattern.
+* Facade pattern.
+* Observe.
